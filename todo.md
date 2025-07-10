@@ -1,5 +1,26 @@
-Test Driven Development (TDD)
-Behavior Driven Development (BDD)
+https://www.atlassian.com/agile/agile-at-scale/what-is-safe
+scaled agile framework? (SAFe) 
+
+Add visual flows
+
+For agile change guide:
+
+- Add roles
+- Pair progrmaming
+- Planning poker
+- Story points
+- Work breakdown structure
+- ROPE
+- How to get from Scrum to Kanban?
+- Kanban
+- Scrumban
+- Code reviews
+- DORA metrics 
+- Add source code? - JavaScript/TypeScript
+- AI in agile change
+- For definition of ready/done/value: add examples
+- Hackathon?
+
 
 ## Estimation
 [Absolute estimation](absolute-estimation)

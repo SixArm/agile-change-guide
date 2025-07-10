@@ -2,7 +2,7 @@
 title: "Agile Change Guide"
 subtitle: "Concepts For Software Collaborations"
 author: "Edited by Joel Parker Henderson"
-date: "2025-07-10"
+date: "2025-07-20"
 description: >
   Topics for agile change, such as the agile manifesto, agile principles, agile
   examples from companies and sectors, agile tips and pitfalls, and comparisons
@@ -12,7 +12,7 @@ titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
 titlepage-rule-color: "CCCCCC"
 titlepage-rule-height: 4
-cover-image: "../../README.jpg"
+cover-image: "../../../../assets/images/cover/1600x2500.jpg"
 logo: "../README.jpg"
 logo-width: 100
 page-background:

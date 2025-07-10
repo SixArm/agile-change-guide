@@ -16,15 +16,16 @@ Agile Change Guide: this book explains one topic per page, like a big glossary, 
 * Get the book: 
   [Free EPUB](https://github.com/SixArm/agile-change-guide/raw/main/agile-change-guide.epub), 
   [Free PDF](https://github.com/SixArm/agile-change-guide/raw/main/agile-change-guide.pdf),
-  [Gumroad](https://gumroad.com/l/agile-change-guide),
-  [Kindle](https://www.amazon.com/dp/B0CPBKMCMY), 
-  [Paperback](https://www.amazon.com/dp/TODO).
+  [Gumroad](https://gumroad.com/l/agile-change-guide).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
 
 ## Contents
 
 ### [Introduction](topics/agile-change-guide-introduction)
+
+* [What is agile?](topics/what-is-agile)
+* [What is agile change management?](topics/what-is-agile-change-management)
 
 ### [Agile manifesto](topics/agile-manifesto)
 
@@ -47,16 +48,6 @@ Agile Change Guide: this book explains one topic per page, like a big glossary, 
 * [Agile principle 10: Simplicity](topics/agile-principle-10-simplicity)
 * [Agile principle 11: Self-Organizing](topics/agile-principle-11-self-organizing)
 * [Agile principle 12: Reflect](topics/agile-principle-12-reflect)
-  
-### [Agile ideas](topics/agile-ideas)
-
-* [Agile design patterns](topics/agile-design-patterns)
-* [Agile design anti-patterns](topics/agile-design-anti-patterns)
-* [Agile debates](topics/agile-debates)
-* [Agile coaching](topics/agile-coaching)
-* [Agile hackathons](topics/agile-hackathons)
-* [Agile enterprises](topics/agile-enterprises)
-* [Agile contraindications](topics/agile-contraindications)
 
 ### [Agile definitions](topics/agile-definitions)
 
@@ -65,6 +56,69 @@ Agile Change Guide: this book explains one topic per page, like a big glossary, 
 * [Definition of Value (DoV)](topics/definition-of-value)
 * [Definition of Customer Value (DoCV)](topics/definition-of-customer-value)
 * [Definition of Technical Value (DoTV)](topics/definition-of-technical-value)
+
+### [Agile metrics](topics/agile-metrics)
+
+* [Net Promoter Score (NPS)](topics/net-promoter-score)
+* [Value-in-use study](topics/value-in-use-study)
+* [Devaux's Index of Project Performance (DIPP)](topics/devauxs-index-of-project-performance)
+* [DORA metrics](topics/dora-metrics)
+* [Agile metrics comparisons](topics/agile-metrics-comparisons)
+
+### [Agile ideas](topics/agile-ideas)
+
+* [Agile assessment](topics/agile-assessment)
+* [Agile maturity model](topics/agile-maturity-model)
+* [Agile design patterns](topics/agile-design-patterns)
+* [Agile design anti-patterns](topics/agile-design-anti-patterns)
+* [Agile debates](topics/agile-debates)
+* [Agile coaching](topics/agile-coaching)
+* [Agile hackathons](topics/agile-hackathons)
+* [Agile enterprises](topics/agile-enterprises)
+* [Agile contraindications](topics/agile-contraindications)
+
+### [Agile and practices](topics/agile-and-practices)
+
+* [Agile and artificial intelligence (AI)](topics/agile-and-artificial-intelligence)
+* [Agile and product management](topics/agile-and-product-management)
+* [Agile and programme management](topics/agile-and-programme-management)
+* [Agile and UI/UX design](topics/agile-and-ui-ux-design)
+* [Agile and test automation](topics/agile-and-test-automation)
+
+### [Agile and mindfulness](topics/agile-and-mindfulness)
+
+* [Agile and flow state](topics/agile-and-flow-state)
+* [Agile and systems thinking](topics/agile-and-systems-thinking)
+* [Agile and psychological safety](topics/agile-and-psychological-safety)
+* [Agile and intrinsic motivation](topics/agile-and-intrinsic-motivation)
+
+### [Agile versus other methodologies](topics/agile-vs-other-methodologies)
+
+* [Agile versus Extreme Programming (XP)](topics/agile-vs-extreme-programming)
+* [Agile versus Lean](topics/agile-vs-lean)
+* [Agile versus Six Sigma](topics/agile-vs-six-sigma)
+* [Agile versus Spiral](topics/agile-vs-spiral)
+* [Agile versus Kanban](topics/agile-vs-kanban)
+* [Agile versus waterfall](topics/agile-vs-waterfall)
+
+### [Agile + sectors](topics/agile-plus-sectors)
+
+* [Agile + education sector](topics/agile-plus-government-sector)
+* [Agile + financial sector](topics/agile-plus-financial-sector)
+* [Agile + government sector](topics/agile-plus-government-sector)
+* [Agile + healthcare sector](topics/agile-plus-healthcare-sector)
+* [Agile + manufacturing sector](topics/agile-plus-manufacturing-sector)
+
+### [Agile perspectives](topics/agile-perspectives)
+
+* [Voice of Customer (VOC)](topics/voice-of-customer)
+* [The Three Amigos](topics/the-three-amigos)
+* [The 7 Dimensions for agile product development](topics/the-7-dimensions-for-agile-product-development)
+* [The 5 C's of agile management](topics/the-5-c-s-of-agile-management)
+* [The 3 P's of agile workspaces](topics/the-3-p-s-of-agile-workspaces)
+* [Dark agile](topics/dark-agile)
+* [Cargo cult](topics/cargo-cult)
+* [Agile certifications](topics/agile-certifications)
 
 ### [Agile with ceremonies](topics/agile-with-ceremonies)
 
@@ -84,28 +138,6 @@ Agile Change Guide: this book explains one topic per page, like a big glossary, 
 * [Agile without retrospectives](topics/agile-without-retrospectives)
 * [Agile without Scrum](topics/agile-without-scrum)
 
-### [Agile versus other methodologies](topics/agile-vs-other-methodologies)
-
-* [Agile versus Extreme Programming (XP)](topics/agile-vs-extreme-programming)
-* [Agile versus Lean](topics/agile-vs-lean)
-* [Agile versus Six Sigma](topics/agile-vs-six-sigma)
-* [Agile versus Spiral](topics/agile-vs-spiral)
-* [Agile versus waterfall](topics/agile-vs-waterfall)
-
-### [Agile in sectors](topics/agile-in-sectors)
-
-* [Agile in financial sector](topics/agile-in-financial-sector)
-* [Agile in healthcare sector](topics/agile-in-healthcare-sector)
-* [Agile in government sector](topics/agile-in-government-sector)
-* [Agile in manufacturing sector](topics/agile-in-manufacturing-sector)
-
-### [Agile and practices](topics/agile-and-practices)
-
-* [Agile and product management](topics/agile-and-product-management)
-* [Agile and programme management](topics/agile-and-programme-management)
-* [Agile and UI/UX design](topics/agile-and-ui-ux-design)
-* [Agile and test automation](topics/agile-and-test-automation)
-
 ### [Agile at organizations](topics/agile-at-organizations)
 
 * [Agile at Amazon](topics/agile-at-amazon)
@@ -113,7 +145,22 @@ Agile Change Guide: this book explains one topic per page, like a big glossary, 
 * [Agile at Google](topics/agile-at-google)
 * [Agile at Netflix](topics/agile-at-netflix)
 * [Agile at Spotify](topics/agile-at-spotify)
-  
+
+### [Scaled Agile Framework (SAFe) principles](topics/scaled-agile-framework-principles)
+
+* [SAFe principle 1: Take an economic view](topics/safe-principle-1)
+* [SAFe principle 2: Apply systems thinking](topics/safe-principle-2)
+* [SAFe principle 3: Assume variability; preserve options](topics/safe-principle-3)
+* [SAFe principle 4: Build incrementally with fast, integrated learning cycles](topics/safe-principle-4)
+* [SAFe principle 5: Base milestones on objective evaluation of working systems](topics/safe-principle-5)
+* [SAFe principle 6: Make value flow without interruptions](topics/safe-principle-6)
+* [SAFe principle 7: Apply cadence, synchronize with cross-domain planning](topics/safe-principle-7)
+* [SAFe principle 8: Unlock the intrinsic motivation of knowledge workers](topics/safe-principle-8)
+* [SAFe principle 9: Decentralize decision-making](topics/safe-principle-9)
+* [SAFe principle 10: Organize around value](topics/safe-principle-10)
+
+## Anecdotes
+
 ### [Agile leader quotations](topics/agile-quotations)
 
 * [Kent Beck quotations](topics/kent-beck-quotations)
@@ -172,7 +219,9 @@ Agile Change Guide: this book explains one topic per page, like a big glossary, 
 * [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
 * [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
 * [Project Management Guide](https://github.com/sixarm/project-management-guide)
+* [Agile Change Guide](https://github.com/sixarm/agile-change-guide)
 * [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
+* [Test Automation Guide](https://github.com/sixarm/test-automation-guide)
 * [Software Programming Guide](https://github.com/sixarm/software-programming-guide)
 * [AI Starter Guide](https://github.com/sixarm/ai-starter-guide)
 * [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)

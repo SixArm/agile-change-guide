@@ -12,6 +12,10 @@ all: ${output}
 clean:
 	rm -f "${links}" "${bound}" "${output}"
 
+.PHONY: open
+open:
+	open "${output}"
+
 ${output}:
 	"${top}/bin/sync-topics"
 	"${top}/bin/links" > "${links}"
